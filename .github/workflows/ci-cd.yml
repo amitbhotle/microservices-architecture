@@ -1,3 +1,5 @@
+# CI/CD pipeline using GitHub Actions
+# This pipeline builds Docker images for all microservices
 name: CI-CD Pipeline
 
 on:
